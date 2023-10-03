@@ -10,7 +10,7 @@ This is 6-hour mini-course on AI Ethics and Responsible Data Science and include
   *  Discussion activities to practice evaluating real systems
 *  **Hands-on 1:** Exploring sources of unfairness and mistakes in ML models: a case study on COMPAS
 *  **Lecture 2: Explainable AI**
- * Local explanation methods
+  * Local explanation methods
   * Global explanation methods
   * Real examples applying examplainability methods to physics models
   * Limitations of AI explainability/interpretability
