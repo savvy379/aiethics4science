@@ -30,6 +30,7 @@ A condensed version of the course appropriate for an hour-long seminar or lectur
 * Scientific frameworks for evaluating ML/AI models
 
 [Link to recording](https://stanford.zoom.us/rec/play/dg81zvl76rVk279hjWXsQYRS7wgNadCkHA6NXLARSTyvWuV3pqL4eUS3Nz438l-Z7jOdVm03UZbb_JJ1.NzHUXx54pjO5bdxu)
+[Link to slides](https://docs.google.com/presentation/d/1dnFWhdbemU_llBrLmH3KAExF5Cef0XkjjCmQ1igMQJM/edit?usp=sharing)
 
 ## AI Ethics Semester Course
 The initial material for a semester long course on AI Ethics currently being taught to Data Science Masters students. Links to the currently available material are provided below and will be updated as the course progresses. 
