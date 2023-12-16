@@ -38,10 +38,27 @@ The initial material for a semester long course on AI Ethics currently being tau
   * [Slides](https://docs.google.com/presentation/d/1wazcYDA2vLVe5eQ8T2eSQmNN1EQt22ESX9prlnhwCAs/edit?usp=drive_link)
 * Lecture 2: Algorithmic Bias
   * [Slides](https://docs.google.com/presentation/d/1ddb4oyG6-u_UguEUMd-d-fY9yqPHnttZ-86s9jxuyP8/edit?usp=drive_link)
-  * Recording
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/4Z1ABuvxp7hxlav-Du0WUphz4E6m-J6NsUwSvxKPDG6qot9AvaTJIEoUAqltdcVk.-7IbP7kCn8wKqlia)
 * Lecture 3: Building Trustworthy Models
   * [Slides](https://docs.google.com/presentation/d/1ugBo42GRFR4kav7q2F9mb532QH0oisa1KGkDCPwQhmU/edit?usp=drive_link)
-  * Recording
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/CKF3uKke9e10Yxn_d4xrTO-ZInglMZbXrK01HJLQ1GLOe7b2PcjYPkVUet1OJCs8.OqVz0NxQkkI3COU2)
+* Lecture 4: Explainable/Interpretable AI
+  * [Slides](https://docs.google.com/presentation/d/1_AgqmudrU6WiduoQjQdblqfuTRMaHXv_5zKPWbF6Iys/edit#slide=id.g28a25018a3f_0_10)
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/jN9LAEzShxb7HTLD-FRJbUTvhYx634iQ-Ddajb1Bt49ONhvtvoRQjUSxKovwcOd6.UziTKRR3n9ZTV6iS)
+* Lecture 5: Generative AI and LLMs
+  * [Slides](https://docs.google.com/presentation/d/10B0zp2aCZhT_3gJU0cUDGo-IzDk9hPDyHeo7yoI0shs/edit#slide=id.gd4351be878_0_104)
+* Lecture 6: Governance and Regulation of AI
+  * [Slides](https://docs.google.com/presentation/d/10B0zp2aCZhT_3gJU0cUDGo-IzDk9hPDyHeo7yoI0shs/edit#slide=id.gd4351be878_0_104)
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/VEbPY5MYmcW1qLPi--HTFQ7_nSY_AJlDWJFz0m9PmFDsz7QvRESsX7Sm9CU53UKQ.VGEgNnQmf8_m617u)
+* Lecture 7: Current Applications of AI
+  * [Slides](https://docs.google.com/presentation/d/1CMwOMqkIDP2DrwIuDzh7tXG6womY4m9C33QmeRvzKnE/edit)
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/MQc7BXJasK04i54k3EQzGPuA0zfekvQwGZ7_HTY4DBnfCAFmlTF00bmAk2z0P7ZG.4CryZdlotK-iJeyi)
+* Lecture 8: Real and Imagined Futures
+  * [Slides](https://docs.google.com/presentation/d/12BnkalADJMtx0ATnMEZRnAbpRjTHgWwgNng349t1UDc/edit#slide=id.gd4351be878_0_104)
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/ovo7ATTLiKrimDxvR0bksVpiRwkbQdJc3910OVpfIiFALGJ6mziKQLwTF7ysxVA.bY6MYlz5W_c4mk7o)
+* Lecture 9: The Role of Technology in Shaping Society
+  * [Slides](https://docs.google.com/presentation/d/15LOGKAhQHlsUuqM_vigNwRAqjUq2v2a5c1c8356MaIY/edit#slide=id.gd4351be878_0_104)
+  * [Recording](https://columbiauniversity.zoom.us/rec/share/rZZwv_5mLkVZN7ZJQQpC3lRRcWBb3Mr1yNFLsrhrnwlVih-woexT7Pj0O2bk6wOV.NZLdffu2eLEwYTaW)
 
 ## Material Use
 Please feel free to use these materials for your own learning or teaching (with appropriate credit attribution!). I am also very happy to consider guest lectures or similar endeavors, so please don't hesitate to reach out. If you have any suggestions please feel free to open a pull request or contact me at st3565 at columbia.edu
